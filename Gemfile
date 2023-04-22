@@ -73,3 +73,4 @@ gem "activeadmin", "~> 2.13"
 gem "devise", "~> 4.9"
 gem 'sassc-rails'
 gem 'tailwindcss-rails', "~> 2.0.28"
+gem "view_component", "~> 2.82"
