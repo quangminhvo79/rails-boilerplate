@@ -14,8 +14,7 @@
 - Rspec, [Fixtures data](https://api.rubyonrails.org/v7.0.3/classes/ActiveRecord/FixtureSet.html)
 - Capybara
 - REST API - OAuth2.0
-- [View Component](https://github.com/mtcld/die-reguliere/blob/develop/app/components/readme.md)
-- [Filter Engine](https://github.com/mtcld/die-reguliere/blob/develop/app/services/filters/readme.md)
+- [View Component](https://viewcomponent.org/)
 
 ## Developement
 
