@@ -1,3 +1,5 @@
 <%= render Shared::CardComponent.new do %>
   <div><%= @user.email %></div>
 <% end %>
+
+<div data-controller="turbo-fetch" data-url="<%= users_path(1) %>" class="btn-primary">Click</div>
